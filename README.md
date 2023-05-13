@@ -1,8 +1,9 @@
-# github-final-project
-- ibm-cours-project
+
+# github-final-project 
+> ibm-cours-project
 
 ## A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-```
+```bash
 Input:
    p, principal amount
    t, time period in years
@@ -11,3 +12,5 @@ Output
    simple interest = p*t*r
    
 ```
+
+
